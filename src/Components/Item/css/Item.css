@@ -1,0 +1,15 @@
+.App-Item-Img{
+    width: 300px;
+}
+
+.App-Item-Name {
+    font-size: 1.6rem;
+    color:#fff;
+  }
+  
+.App-Item-Card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
