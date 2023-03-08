@@ -1,0 +1,47 @@
+.App-Item-Count-Button{
+    width: 100%;
+    padding: 5px 10px;
+    color: rgb(206, 69, 69);
+    border: 1px solid rgb(206, 69, 69);
+
+}
+
+.App-Item-Count-Button[disabled]{
+    width: 100%;
+    padding: 5px 10px;
+    color: rgb(219, 219, 219);
+    border: 1px solid rgb(219, 219, 219);
+
+}
+
+.App-Item-Count-container{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    
+}
+
+.App-Item-Count-value{
+    background-color:#fff;
+    font-size: 17px;
+    font-weight: bold;
+    color: #161616;
+    width: 100%;
+    padding: 5px 10px;
+    text-align: center;
+
+
+}
+
+.App-Item-Count-Button-Cart{
+    width: 100%;
+    padding: 10px 20px;
+    color: #fff;
+    background-color:rgb(206, 69, 69) ;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
